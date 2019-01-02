@@ -8,7 +8,7 @@
                 <div class="large-12 columns tagline">
                     <img src="/img/tag.jpg" alt="since 1994">
 
-                    <p>Whether it’s <em>by the piece</em> or <em>entire estates</em>, I have made my career on paying top prices for your antiques. Call <strong>1-800-834-9925</strong></p>
+                    <p>Whether it’s <em>by the piece</em> or <em>entire estates</em>, I have made my career on paying top prices for your antiques. Call <strong>215.444.5654</strong> or <strong>856.455.1665</strong></p>
                 </div>
             </div>
             
