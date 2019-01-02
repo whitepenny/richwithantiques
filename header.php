@@ -16,7 +16,7 @@
     <![endif]-->
 
   <script src="/js/vendor/custom.modernizr.js"></script>
-  <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
 
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 
