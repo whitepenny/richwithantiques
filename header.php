@@ -32,9 +32,9 @@
             <nav>
                 <ul id="nav">
                     <li><a href="/">Home</a></li>
-                    <li><a href="/about.php">Meet Rich</a></li>
-                    <li><a href="/faq.php">FAQ</a></li>
-                    <li><a href="/contact.php">Have Something to Sell?</a></li>
+                    <li><a href="/about">Meet Rich</a></li>
+                    <li><a href="/faq">FAQ</a></li>
+                    <li><a href="/contact">Have Something to Sell?</a></li>
                 </ul>
             </nav>
 
@@ -42,7 +42,7 @@
                 <h2>Contact</h2>
                 <p>To set up a one-on-one appointment, please call <strong>1-800-834-9925</strong></p>
 
-                <a class="sell_button" href="/contact.php">Ready to Sell?</a>
+                <a class="sell_button" href="/contact">Ready to Sell?</a>
             </div>
 
         </header>
