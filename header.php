@@ -40,7 +40,7 @@
 
             <div class="contact-box">
                 <h2>Contact</h2>
-                <p>To set up a one-on-one appointment, please call <strong>1-800-834-9925</strong></p>
+                <p>To set up a one-on-one appointment, please call <strong>215.444.5654</strong> or <strong>856.455.1665</strong></p>
 
                 <a class="sell_button" href="/contact">Ready to Sell?</a>
             </div>

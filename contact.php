@@ -7,7 +7,7 @@
 
     <p>If you have items you want to sell, please contact me via telephone or via email to set up a one-on-one appointment at your convenience. At that appointment, we'll take a look at what you have and what the value might be.</p>
 
-    <h3>Via Phone: 1-800-834-9925</h3>
+    <h3>Via Phone: 215.444.5654 or 856.455.1665</h3>
 
     <h3>Via Email: <a href="mailto:rshevko@yahoo.com">rshevko@yahoo.com</a></h3>
 
